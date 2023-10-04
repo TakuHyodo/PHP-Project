@@ -1,0 +1,8 @@
+2023/10/04 08:04:02 [crit] 7#7: *1 realpath() "/var/www/html/public" failed (2: No such file or directory), client: 172.19.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2023/10/04 08:04:02 [crit] 7#7: *1 realpath() "/var/www/html/public" failed (2: No such file or directory), client: 172.19.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/10/04 08:08:07 [crit] 7#7: *6 realpath() "/var/www/html/public" failed (2: No such file or directory), client: 172.19.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2023/10/04 08:08:08 [crit] 7#7: *6 realpath() "/var/www/html/public" failed (2: No such file or directory), client: 172.19.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2023/10/04 08:08:08 [crit] 7#7: *6 realpath() "/var/www/html/public" failed (2: No such file or directory), client: 172.19.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2023/10/04 08:34:30 [crit] 7#7: *10 realpath() "/var/www/html/public" failed (2: No such file or directory), client: 172.19.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2023/10/04 08:39:36 [crit] 7#7: *13 realpath() "/var/www/html/public" failed (2: No such file or directory), client: 172.19.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2023/10/04 08:39:37 [crit] 7#7: *13 realpath() "/var/www/html/public" failed (2: No such file or directory), client: 172.19.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
