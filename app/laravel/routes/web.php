@@ -16,3 +16,5 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('welcome');
 });
+
+Route::get('/quotations', App\Http\Actions\Quotation\CommonAction::class)->name('quotations.common'); //追加
